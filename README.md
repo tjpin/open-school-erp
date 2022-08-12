@@ -46,13 +46,11 @@
 
 ## :dart: About ##
 
-<<<<<<< HEAD
 **Open School ERP** is a free and open source software built with the latest technologies.
 > This software is built with security in mind and maintaining integraty of the end user. Being free and open source many feature are still in developement and and others are still in review stages. 
-=======
 ### Open School ERP is a versatile free and open source school erp system built with the latest technologie to aid e-learning and institutional management. This software remains free and up to date. 
 *Data and document managent* is the pillar of this software.
->>>>>>> e1546978ddab0af30959f713252664c6be579d8c
+
 
 ## :sparkles: Features ##
 
@@ -73,36 +71,31 @@ The following tools were used in this project:
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Django](https://docs.djangoproject.com/en/4.1/intro/install/) installed.
 
 ## :checkered_flag: Mobile Suport ##
-<<<<<<< HEAD
 **Flutter`#0388fc`** :checkered_flag:, will be used in future to build ios and android app.
-=======
 *Flutter* :checkered_flag: will be used in future to suport ios and android.
->>>>>>> e1546978ddab0af30959f713252664c6be579d8c
 
 ## :checkered_flag: Starting ##
 
-```bash
 # Clone this project
-$ git clone https://github.com/{{tjpin}}/open-school-erp
+$ ```git clone https://github.com/tjpin/open-school-erp```
 
 # Access
-$ cd open-school
+$ ```cd open-school```
 
 # Install dependencies with pip
-$ pip install django
+$ ```pip install django```
 
 # Run the project
-$ python manage.py runserver
+$ ```python manage.py runserver```
 
 # The server will initialize in the <http://localhost:8000>
-```
 
 ## :memo: License ##
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{tjpin}}" target="_blank">Lazarus Muya</a>
+Made with :heart: by <a href="https://github.com/tjpin" target="_blank">Lazarus Muya</a>
 
 &#xa0;
 
