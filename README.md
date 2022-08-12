@@ -71,25 +71,24 @@ The following tools were used in this project:
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Django](https://docs.djangoproject.com/en/4.1/intro/install/) installed.
 
 ## :checkered_flag: Mobile Suport ##
-**`Flutter`** :checkered_flag: will be used in future to build ios and android app.
+**`Flutter`** will be used in future to build ios and android app.
 *Flutter* :checkered_flag: will be used in future to suport ios and android.
 
-## :checkered_flag: Starting ##
+```
+# `Clone this project`
+$ git clone https://github.com/tjpin/open-school-erp
 
-# Clone this project
-$ ```git clone https://github.com/tjpin/open-school-erp```
+# `Access`
+$ cd open-school
 
-**Access**
-$ ```cd open-school```
+# `Install dependencies with pip`
+$ pip install django
 
-**Install dependencies with pip**
-$ ```pip install django```
+# `Run the project`
+$ python manage.py runserver
 
-**Run the project**
-$ ```python manage.py runserver```
-
-###**The server will initialize in the <http://localhost:8000>**
-
+# The server will initialize in the <http://localhost:8000>
+```
 ## :memo: License ##
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
