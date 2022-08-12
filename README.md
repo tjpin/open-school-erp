@@ -48,7 +48,7 @@
 
 **Open School ERP** is a free and open source software built with the latest technologies.
 > This software is built with security in mind and maintaining integraty of the end user. Being free and open source many feature are still in developement and and others are still in review stages. 
-### Open School ERP is a versatile free and open source school erp system built with the latest technologie to aid e-learning and institutional management. This software remains free and up to date. 
+> **Open School ERP** is a versatile free and open source school erp system built with the latest technologie to aid e-learning and institutional management. This software remains free and up to date. 
 *Data and document managent* is the pillar of this software.
 
 
@@ -71,7 +71,7 @@ The following tools were used in this project:
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Django](https://docs.djangoproject.com/en/4.1/intro/install/) installed.
 
 ## :checkered_flag: Mobile Suport ##
-**Flutter`#0388fc`** :checkered_flag:, will be used in future to build ios and android app.
+**`Flutter`** :checkered_flag: will be used in future to build ios and android app.
 *Flutter* :checkered_flag: will be used in future to suport ios and android.
 
 ## :checkered_flag: Starting ##
@@ -79,16 +79,16 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 # Clone this project
 $ ```git clone https://github.com/tjpin/open-school-erp```
 
-# Access
+**Access**
 $ ```cd open-school```
 
-# Install dependencies with pip
+**Install dependencies with pip**
 $ ```pip install django```
 
-# Run the project
+**Run the project**
 $ ```python manage.py runserver```
 
-# The server will initialize in the <http://localhost:8000>
+###**The server will initialize in the <http://localhost:8000>**
 
 ## :memo: License ##
 
