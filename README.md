@@ -75,19 +75,15 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 *Flutter* :checkered_flag: will be used in future to suport ios and android.
 
 ```
-# `Clone this project`
 $ git clone https://github.com/tjpin/open-school-erp
 
-# `Access`
-$ cd open-school
+$ `cd open-school`
 
-# `Install dependencies with pip`
-$ pip install django
+$ `pip install django`
 
-# `Run the project`
-$ python manage.py runserver
+$ `python manage.py runserver`
 
-# The server will initialize in the <http://localhost:8000>
+The server will initialize in the <http://localhost:8000>
 ```
 ## :memo: License ##
 
