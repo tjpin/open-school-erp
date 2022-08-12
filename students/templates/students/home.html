@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+    <h2> Student Home </h2>
+    {% block content %}
+
+    <table>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Date of Birth</th>
+            <th>Parent</th>
+            <th>Level</th>
+            <th>Entry Grade</th>
+        </tr>
+        {% for student in students %}
+        <tr>
+            <td>{{ student.first_name }}</td>
+            <td>{{ student.last_name }}</td>
+            <td>{{ student.date_of_birth }}</td>
+            <td>{{ student.guardian }}</td>
+            <td>{{ student.level }}</td>
+            <td>{{ student.entry_grade }}</td>
+        </tr>
+    {% endfor %}
+
+    </table>
+    {% endblock content %}
+
+</body>
+</html>
