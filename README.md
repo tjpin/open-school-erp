@@ -6,16 +6,16 @@
   <!-- <a href="https://openschool.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Open School</h1>
+<h1 align="center" style="background-color: #ff8000">Open School ERP</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{tjpin}}/open-school-erp?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/tjpin/open-school-erp?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{tjpin}}/open-school-erp?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/tjpin/open-school-erp?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{tjpin}}/open-school-erp?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tjpin/open-school-erp?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{tjpin}}/open-school-erp?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/tjpin/open-school-erp?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/open-school?color=56BEB8" /> -->
 
@@ -71,8 +71,7 @@ The following tools were used in this project:
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Django](https://docs.djangoproject.com/en/4.1/intro/install/) installed.
 
 ## :checkered_flag: Mobile Suport ##
-**`Flutter`** will be used in future to build ios and android app.
-*Flutter* :checkered_flag: will be used in future to suport ios and android.
+**`Flutter`** will be used in future to suport ios and android.
 
 
 $ `git clone https://github.com/tjpin/open-school-erp`
