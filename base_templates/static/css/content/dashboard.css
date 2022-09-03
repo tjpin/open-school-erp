@@ -1,0 +1,25 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Ubuntu' 'San Serif';
+}
+
+.dashboard-container {
+    display: flex;
+    flex-direction: column;
+    left: 75px;
+    transform: translateX(75px);
+}
+.dashboard-container .analysis-bar {
+    height: 100px;
+    width: 100%;
+    background: rgb(151, 151, 151);
+}
+
+.dashboard-container .content-body {
+    /* height: 100px; */
+    background: red;
+    display: flex;
+    /* width: calc(100vw - 180px);
+    height: calc(100vh - 100px); */
+}
